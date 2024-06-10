@@ -5,4 +5,10 @@ The other tab is for KUKA kr8 r1420 arc hw robot in addition to calculating inve
 Using cad files of the robot to create simscape file. 
 Creating simulation environment for 6DOF robotic arm using Peter Corke Robotics Toolbox. 
 # KUKA KR8-R 1420HW 
+- Main assemblies of the manipulator
 ![image](https://github.com/mohamed9salah/KUKA-kr8-r1420-arc-hw-MATLAB-simulink/assets/138705468/6b24da97-9387-410d-8c1c-2c936d2dc5d3)
+1-	Link arm 
+2-	Hollow-shaft wrist/arm
+3-	Electrical installation
+4-	Base frame
+5-	Rotating column
