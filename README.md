@@ -4,3 +4,5 @@ This project contains a general tab designed by APPDESIGNER. By inserting the pa
 The other tab is for KUKA kr8 r1420 arc hw robot in addition to calculating inverse kinematics with Forward and Back Reaching Inverse Kinematics and Cyclic Coordinate Descent methods. 
 Using cad files of the robot to create simscape file. 
 Creating simulation environment for 6DOF robotic arm using Peter Corke Robotics Toolbox. 
+# KUKA KR8-R 1420HW 
+![image](https://github.com/mohamed9salah/KUKA-kr8-r1420-arc-hw-MATLAB-simulink/assets/138705468/6b24da97-9387-410d-8c1c-2c936d2dc5d3)
