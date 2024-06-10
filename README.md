@@ -12,3 +12,8 @@ Creating simulation environment for 6DOF robotic arm using Peter Corke Robotics 
 3-	Electrical installation
 4-	Base frame
 5-	Rotating column
+# Technical data
+![image](https://github.com/mohamed9salah/KUKA-kr8-r1420-arc-hw-MATLAB-simulink/assets/138705468/80decf33-e51d-4a57-a711-55cc1ce221eb)
+# axis data KR 8 R1420 HW
+![image](https://github.com/mohamed9salah/KUKA-kr8-r1420-arc-hw-MATLAB-simulink/assets/138705468/f6638a77-9708-4d72-8c21-a1432c638c45)
+![image](https://github.com/mohamed9salah/KUKA-kr8-r1420-arc-hw-MATLAB-simulink/assets/138705468/f31b56cf-0358-4515-915b-51851537210f)
